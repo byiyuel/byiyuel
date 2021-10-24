@@ -1,6 +1,6 @@
 ### Hi there, I'm Baran - aka [byiyuel][website] 👋
 
-[![website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](byiyuel.github.io)
+[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=byiyuel.github.io)](byiyuel.github.io)
 
 -🔭 I’m currently working on nothing lol :D
 
@@ -25,4 +25,4 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=byiyuel&show_icons=true&hide_border=true" />
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=byiyuel)
