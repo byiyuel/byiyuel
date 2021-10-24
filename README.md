@@ -1,4 +1,6 @@
-### Hi! It's byiyuel👋
+### Hi there, I'm Baran - aka [byiyuel][website] 👋
+
+[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](byiyuel.github.io)
 
 -🔭 I’m currently working on nothing lol :D
 
@@ -8,10 +10,19 @@
 
 -📬 How to reach me; Discord: byiyuel#9966 
 
-<hr>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=byiyuel&show_icons=true)  
+### Connect with me:
 
+[<img align="left" alt="byiyuel.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="byiyuell | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="byiyuel | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=byiyuel)
+<br />
+<br />
 
+---
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=byiyuel&show_icons=true&hide_border=true" />
