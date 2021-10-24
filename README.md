@@ -8,6 +8,8 @@
 
 -📬 How to reach me; Discord: byiyuel#9966 
 
+<hr>
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=byiyuel&show_icons=true)  
 
 
