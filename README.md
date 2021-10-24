@@ -11,9 +11,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="byiyuel.github.io" width="22px" src="byiyuel.github.io" />
-[<img align="left" alt="byiyuel | YouTube" width="22px" src="youtube.com/byiyuell" />
-[<img align="left" alt="byiyuel | Instagram" width="22px" src="instagram.com/c/byiyuel" />
+[<img align="left" alt="byiyuel.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" href="byiyuel.github.io" />
+[<img align="left" alt="byiyuell | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" href="youtube.com/byiyuell" />
+[<img align="left" alt="byiyuel | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" href="instagram.com/c/byiyuel" />
 
 <br />
 <br />
