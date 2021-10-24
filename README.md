@@ -1,6 +1,6 @@
 ### Hi there, I'm Baran - aka [byiyuel][website] 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](byiyuel.github.io)
+[![website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](byiyuel.github.io)
 
 -🔭 I’m currently working on nothing lol :D
 
