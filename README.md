@@ -11,9 +11,10 @@
 
 ### Connect with me:
 
-<href=byiyuel.github.com Website />
-<img align="left" alt="byiyuell | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" href="youtube.com/byiyuell" />
-<img align="left" alt="byiyuel | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" href="instagram.com/c/byiyuel" />
+![Website](byiyuel.github.com)
+![İnstagram](instagram.com/c/byiyuel)
+![YouTube](youtube.com/byiyuell)
+![Discord](https://discord.gg/HAVJGxAbgU)
 
 <br />
 <br />
