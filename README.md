@@ -8,9 +8,6 @@
 
 -📬 How to reach me; Discord: byiyuel#9966 
 
-<br />
-<br />
-
 ---
 
 <details>
