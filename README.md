@@ -1,4 +1,4 @@
-### Hi there, I'm Baran - aka [byiyuel]
+### Hi there, I'm Baran - aka byiyuel
 
 -🔭 I’m currently working on nothing lol :D
 
