@@ -8,6 +8,12 @@
 
 -📬 How to reach me; Discord: byiyuel#9966 
 
+<p align="center">
+  <a href="https://instagram.com/byiyuel" title="Instagram" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="xaron.js" height="20" width="20" /></a>
+  <a href="https://discord.gg/CjyFTYWKAf" title="Discord Server" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="discord.gg/zjTVJCR7pm" height="20" width="20" /></a>
+  <a href="https://dev.to/byiyuel" title="Dev.to" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="xaron" height="20" width="20" /></a><br/>
+<h2 align="center"><a href="byiyuel.github.io target="_blank">byiyuel.github.io/a></h2><br/>
+
 ---
 
 <details>
@@ -16,3 +22,4 @@
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=byiyuel)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=byiyuel&show_icons=true) 
+  
