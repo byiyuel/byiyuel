@@ -12,7 +12,7 @@
   <a href="https://instagram.com/byiyuel" title="Instagram" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="xaron.js" height="20" width="20" /></a>
   <a href="https://discord.gg/CjyFTYWKAf" title="Discord Server" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="discord.gg/zjTVJCR7pm" height="20" width="20" /></a>
   <a href="https://dev.to/byiyuel" title="Dev.to" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="xaron" height="20" width="20" /></a><br/>
-<h2 align="center"><a href="byiyuel.github.io target="_blank">byiyuel.github.io></h2><br/>
+<h2 align="center"><a href="byiyuel.github.io"target=_blank">byiyuel.github.io</h2><br/>
 
 ---
 
