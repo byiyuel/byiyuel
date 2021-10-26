@@ -24,7 +24,7 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=byiyuel&theme=cobalt&show_icons=true)
   
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=byiyuela&repo=byiyuel.github.io)](https://github.com/byiyuel/byiyuel.github.io)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=byiyuela&repo=byiyuel.github.io)](https://github.com/anuraghazra/github-readme-stats)
 
 
   
