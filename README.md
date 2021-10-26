@@ -22,6 +22,6 @@
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=byiyuel)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=byiyuela&theme=cobalt&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=byiyuel&theme=cobalt&show_icons=true)
 
   
