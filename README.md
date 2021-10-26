@@ -20,11 +20,9 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=byiyuel)
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=byiyuel&theme=cobalt&show_icons=true)
   
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=byiyuela&repo=byiyuel.github.io)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
   
