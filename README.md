@@ -1,6 +1,6 @@
 ### Hi there, I'm Baran - aka byiyuel
 
--🔭 I’m currently working on nothing lol :D
+-🔭 I’m currently working on **POGLY Müzik** and **POGLY Moderasyon** *(bots for my discord server :P)*.
 
 -🌱 I’m currently learning C#, JavaScript
 
