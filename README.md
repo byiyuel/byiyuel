@@ -6,7 +6,7 @@
 
 -💬 Ask me about computer parts. I'd love to answer them
 
--📬 How to reach me; Discord: byiyuel#9966 
+-📬 How to reach me; Discord: https://discord.gg/UCwWVEzV73 
 
 <p align="center">
   <a href="https://instagram.com/byiyuel" title="Instagram" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="xaron.js" height="20" width="20" /></a>
