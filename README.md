@@ -6,7 +6,7 @@
 
 -💬 Her şeyi sorabilirisiniz.
 
--📬 Bana ulaş: 0byiyuel#9966 ya da mail yolla <href mailto:baranyucel643@gmail.com>
+-📬 Bana ulaş:
 
 <p align="center">
   <a href="https://instagram.com/byiyuel" title="Instagram" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="xaron.js" height="20" width="20" /></a>
