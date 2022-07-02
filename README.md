@@ -1,12 +1,12 @@
-### Hi there, I'm Baran - aka byiyuel
+### Selamlar! Ben byiyuel
 
--🔭 I’m currently working on **POGLY Müzik** and **POGLY Moderasyon** *(bots for my discord server :P)*.
+-🔭  **POGLY Müzik** ve **POGLY Moderasyon** üzerinde çalışıyorum.
 
--🌱 I’m currently learning C#, JavaScript
+-🌱 C# ve JavaScript öğreniyorum.
 
--💬 Ask me about computer parts. I'd love to answer them
+-💬 Her şeyi sorabilirisiniz.
 
--📬 How to reach me; Discord: https://discord.gg/UCwWVEzV73 
+-📬 Bana ulaş: 0byiyuel#9966 ya da mail yolla <href mailto:baranyucel643@gmail.com>
 
 <p align="center">
   <a href="https://instagram.com/byiyuel" title="Instagram" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="xaron.js" height="20" width="20" /></a>
