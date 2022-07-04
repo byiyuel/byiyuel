@@ -6,7 +6,7 @@
 
 -💬 Her şeyi sorabilirisiniz.
 
--📬 Bana ulaş: (ikonlar siyah, karanlık temadaysan iyi bak :D)
+-📬 Sosyal bağlantılarım: (ikonlar siyah, karanlık temadaysan iyi bak :D)
 
 <p align="center">
   <a href="https://instagram.com/byiyuel" title="Instagram" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Instagram Hesabım" height="20" width="20" /></a>
